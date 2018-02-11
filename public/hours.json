@@ -1,0 +1,28 @@
+{
+"_comment":"Lines 6 and 20 of this file are Sunday, not Monday",
+
+"hours":
+[
+[11, 19],
+[11, 14], 
+false,
+false,
+false,
+false,
+[11, 18]
+],
+
+
+
+
+"foods":
+[
+["acorns", "hash", "eggcorns", "quick sucky-suck ($5)"],
+["it's monday!", "sweetpotatoes", "cannabis"],
+["it's tuesday", "LSD", "kale veggies"],
+["it's wed."],
+["no food", "starve, bitch!"],
+["no food"],
+["no food"]
+]
+}

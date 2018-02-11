@@ -1,0 +1,16 @@
+[
+	["it's sunday!", "sweetpotatoes", "cannabis"],
+	["it's monday!", "sweetpotatoes", "cannabis"],
+	["it's tuesday", "LSD", "kale veggies"],
+	["it's wed."],
+	["no food"],
+	["no food"],
+	["no food"]
+
+]
+
+// git add .
+// git commit -m "update wednesday food list"
+// git push heroku master
+
+// foods.Monday = foods["Monday"]

@@ -1,0 +1,23 @@
+{
+	"sweetpotatosoup":[
+		"Sweet Potato Soup",
+		["Ingredient 1", "Ingredient 2", "Ingredient 3", "Ingredient 4"],
+		["Step 1","Step 2","Step 3"],
+		"Anything else you want the user to know about sweet potato soup"
+	],
+
+	"kalesalad": [
+		"Kale Salad",
+		["Kale", "Dressing", "Salt"],
+		["Wash kale", "mix with dressing", "enjoy"],
+		"Fun fact: The more kale you eat the more likely donald trump is to be impeached"
+	],
+
+	"kalesalad": [
+		"Kale Salad",
+		["Kale", "Dressing", "Salt"],
+		["Wash kale", "mix with dressing", "enjoy"],
+		"Fun fact: The more kale you eat the more likely donald trump is to be impeached"
+	]
+
+}
